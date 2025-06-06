@@ -165,6 +165,8 @@ p.note { display: none; }
 <a href="20250606_016.JPG" target="_blank"><img src="20250606_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250606_017.JPG" target="_blank"><img src="20250606_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250606_018.JPG" target="_blank"><img src="20250606_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">はちさんがせっせと蜜集め</span></h2>
 <a href="20250606_019.JPG" target="_blank"><img src="20250606_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250606_020.JPG" target="_blank"><img src="20250606_020.JPG" alt="サンプル画像" width="900" /></a>
     

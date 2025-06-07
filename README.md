@@ -216,7 +216,7 @@ p.note { display: none; }
 <a href="20250606_051.JPG" target="_blank"><img src="20250606_051.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250606_052.JPG" target="_blank"><img src="20250606_052.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">入り口の自販機では集金と缶の入れ替え</span></h2>
+<h2><span class="yellow">入り口の自販機では集金と缶の補充</span></h2>
 <a href="20250606_053.JPG" target="_blank"><img src="20250606_053.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">最後は自販機前から一般道までの下りの道<br>画像クリックで動画再生します</span></h2>
